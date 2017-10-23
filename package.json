@@ -1,0 +1,35 @@
+{
+  "name": "raindrops",
+  "version": "1.0.0",
+  "description": "A program that converts a number to a string, the contents of which depends on the number’s prime factors. `",
+  "main": "src/main.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha --compilers js:babel-core/register tests/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RachelAbaniwo/raindrops.git"
+  },
+  "keywords": [
+    "TDD",
+    "Javascript"
+  ],
+  "author": "Rachel Abaniwo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RachelAbaniwo/raindrops/issues"
+  },
+  "homepage": "https://github.com/RachelAbaniwo/raindrops#readme",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1",
+    "babel-preset-stage-3": "^6.24.1",
+    "babel-register": "^6.26.0",
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  }
+}
