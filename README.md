@@ -1,6 +1,6 @@
 # raindrops
 A program that converts a number to a string, the contents of which depends on the number’s prime factors. 
-## 2 Getting Started
+## Getting Started
 Clone or download from the Clone/Download
 If the clone option is selected, in the directory of choice, paste the url: https://github.com/RachelAbaniwo/raindrops.git given after clicking the clone/download button
 
