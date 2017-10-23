@@ -4,7 +4,7 @@ A program that converts a number to a string, the contents of which depends on t
 Clone or download from the Clone/Download
 If the clone option is selected, in the directory of choice, paste the url given just beside the clone/download button.
 
-If download option is selected, the raindrops zip folder is downloaded to the local system.
+If Download option is selected, the raindrops zip folder is downloaded to the local system.
 
 ## 2 Running the Tests
 
