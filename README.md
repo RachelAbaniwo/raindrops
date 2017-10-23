@@ -6,17 +6,17 @@ If the clone option is selected, in the directory of choice, paste the url: http
 
 If Download option is selected, the raindrops zip folder is downloaded to the local system.
 
-## 2 Running the Tests
+## Running the Tests
 
 Testing is done using Mocha and Chai.
 The command "npm test" should be typed into the terminal.
 
 If all the tests are passed, a success message is displayed, otherwise, failed tests are displayed.
 
-## 2 Versioning
+## Versioning
 Git is used for versioning.
 
-## 2 Author
+## Author
 
 Rachel Abaniwo.
 
